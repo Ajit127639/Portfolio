@@ -1,0 +1,8 @@
+body { font-family: 'Poppins', sans-serif; background-color: #f9f9f9; color: #333; }
+    .hero { background-color: #2C3E50; color: #fff; padding: 80px 0; }
+    .hero img { border-radius: 50%; max-width: 150px; }
+    .section-title { border-left: 5px solid #3498DB; padding-left: 15px; margin-bottom: 20px; font-weight: bold; }
+    .progress-bar { background-color: #3498DB; }
+    .icon { font-size: 2rem; margin-right: 15px; color: #3498DB; }
+    .footer { background: #2C3E50; color: #fff; padding: 20px 0; }
+    .btn-primary { background-color: #3498DB; border: none; }
